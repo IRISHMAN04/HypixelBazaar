@@ -1,0 +1,2 @@
+# HypixelBazaar
+Bazaar Price Checker to see what you can buy, craft and sell back to the Bazaar for a profit. Eventually will be a GUI telling you how many of what items to buy, and will also include NPC buying prices but right now I am going to sleep and will most likely forget this project exists when I wake up. Thanks go out to Moulberry over at https://github.com/Moulberry/NotEnoughUpdates-REPO for maintaining a crafting recipe for every single item in the game that has the same (for 99% of the recipes) name as the Hypixel API's internalname
